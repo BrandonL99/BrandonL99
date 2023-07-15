@@ -10,7 +10,7 @@
 - <b>PowerShell</b>
   - [Create Random Users In Active Directory with PowerShell](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- [How to Install a Virtual Machine 2022 (Oracle Virtualbox, Windows 10)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- [How to Install a Virtual Machine 2022 (Oracle Virtualbox, Windows 10)](https://github.com/BrandonL99/HowToSetUpAVirtualBox/blob/main/README.md)
 
 <h2>📄 Certifications :</h2>
 
