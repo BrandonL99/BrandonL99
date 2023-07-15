@@ -21,7 +21,7 @@
 [<img align="left" alt="BrandonLorenzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/brandonlorenzo
+[youtube]: https://www.youtube.com/c/brandonlorenzo
+[instagram]: https://www.instagram.com/brandonlorenzo/
 [linkedin]: https://www.linkedin.com/in/brandonlorenzo/
