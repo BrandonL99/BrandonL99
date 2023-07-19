@@ -5,7 +5,7 @@
 - <b>Active Directory </b>
   - [How To Setup Active Directory and Domain Controller for Clients (HomeLab)](https://github.com/BrandonL99/Active-Directory-and-Domain-Controller-Setup)
 
-  - [How To Reset Passwords In Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How To Reset Passwords In Active Directory](https://github.com/BrandonL99/How-To-Reset-Passwords-In-Active-Directory)
   
 - <b>PowerShell</b>
   - [Create Random Users In Active Directory with PowerShell](https://github.com/BrandonL99/AD-PS-Create-Random-User)
