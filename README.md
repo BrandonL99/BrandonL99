@@ -3,18 +3,19 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory </b>
-  - [How To Setup Active Directory and Domain Controller for Clients (HomeLab)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How To Setup Active Directory and Domain Controller for Clients (HomeLab)](https://github.com/BrandonL99/Active-Directory-and-Domain-Controller-Setup)
 
   - [How To Reset Passwords In Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>PowerShell</b>
-  - [Create Random Users In Active Directory with PowerShell](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Create Random Users In Active Directory with PowerShell](https://github.com/BrandonL99/AD-PS-Create-Random-User)
 
-- [How to Install a Virtual Machine 2022 (Oracle Virtualbox, Windows 10)](https://github.com/BrandonL99/HowToSetUpAVirtualBox/blob/main/README.md)
+- [How to Install a Virtual Machine 2022 (Oracle Virtualbox, Windows 10)](https://github.com/BrandonL99/How-To-Set-Up-A-VirtualBox)
 
 <h2>📄 Certifications :</h2>
 
   - [Google IT Support Professional Certificate](https://coursera.org/share/de5d2daebee401faa0096017b87f1ef1)
+  - Currently Studying CompTIA A+  
   
 <h2> 🤳 Connect with me:</h2>
 
