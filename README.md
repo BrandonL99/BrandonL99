@@ -15,7 +15,7 @@
 <h2>📄 Certifications :</h2>
 
   - [Google IT Support Professional Certificate](https://coursera.org/share/de5d2daebee401faa0096017b87f1ef1)
-  - Currently Studying CompTIA A+  
+  - CompTIA A+
   
 <h2> 🤳 Connect with me:</h2>
 
