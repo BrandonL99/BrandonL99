@@ -1,8 +1,5 @@
 <h1>Hi, I'm Brandon!
 
-<h1>Websites</h1>
-<h2>Fitness Studio</h2>
-
 <h2>👨‍💻 Projects:</h2>
 
 - [Dice roller program](https://github.com/BrandonL99/Dice-Roller-Program)
@@ -18,8 +15,4 @@
 
 [<img align="left" alt="BrandonLorenzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[twitter]: https://twitter.com/brandonlorenzo
-[youtube]: https://www.youtube.com/c/brandonlorenzo
-[instagram]: https://www.instagram.com/brandonlorenzo/
 [linkedin]: https://www.linkedin.com/in/brandonlorenzo/
