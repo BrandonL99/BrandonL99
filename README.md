@@ -3,16 +3,10 @@
 <h1>Websites</h1>
 <h2>Fitness Studio</h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory </b>
-  - [How To Setup Active Directory and Domain Controller for Clients (HomeLab)](https://github.com/BrandonL99/Active-Directory-and-Domain-Controller-Setup)
-
-  - [How To Reset Passwords In Active Directory](https://github.com/BrandonL99/How-To-Reset-Passwords-In-Active-Directory)
-  
-- <b>PowerShell</b>
-  - [Create Random Users In Active Directory with PowerShell](https://github.com/BrandonL99/AD-PS-Create-Random-User)
-
+- [Dice roller program](https://github.com/BrandonL99/Dice-Roller-Program)
+- [YouTube Clone](https://github.com/BrandonL99/youtube-clone)
 - [How to Install a Virtual Machine 2022 (Oracle Virtualbox, Windows 10)](https://github.com/BrandonL99/How-To-Set-Up-A-VirtualBox)
 
 <h2>📄 Certifications :</h2>
